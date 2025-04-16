@@ -1,0 +1,11 @@
+.green-btn{
+    background: #4CAF4F;
+    color: #FFFF;
+    font-weight: 400;
+}
+
+.green-btn:hover .green-btn:fous{
+    background: #4CAF4F;
+    color: #FFFF;
+
+}
